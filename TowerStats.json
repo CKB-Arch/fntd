@@ -3206,7 +3206,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 700,
+                "Damage": 7000,
                 "Poison": 350,
                 "PoisonTime": 3,
                 "Cooldown": 3
@@ -3222,7 +3222,7 @@
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 900,
+                "Damage": 9000,
                 "Poison": 450,
                 "PoisonTime": 3,
                 "Cooldown": 2.7
@@ -3230,7 +3230,7 @@
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 1000,
+                "Damage": 10000,
                 "Poison": 500,
                 "PoisonTime": 3,
                 "Cooldown": 2.5
@@ -3254,7 +3254,7 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 150,
+                "Damage": 5000,
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Cooldown": 1
@@ -3262,7 +3262,7 @@
             {
                 "Price": 4000,
                 "Range": 19,
-                "Damage": 200,
+                "Damage": 12500,
                 "Burn": 50,
                 "BurnTime": 1.2,
                 "Cooldown": 1
@@ -3270,15 +3270,15 @@
             {
                 "Price": 5000,
                 "Range": 20,
-                "Damage": 250,
+                "Damage": 15000,
                 "Burn": 62,
                 "BurnTime": 1.2,
                 "Cooldown": 1
             },
             {
-                "Price": 6000,
+                "Price": 100000,
                 "Range": 22,
-                "Damage":300,
+                "Damage":20000,
                 "Burn": 80,
                 "BurnTime": 1.2,
                 "Cooldown": 1
@@ -3289,7 +3289,7 @@
         "Type": "Nuke Burn",
         "Image": "rbxassetid://18971134114",
         "Rarity": "Secret",
-        "PlacePrice": 50000,
+        "PlacePrice": 7500,
         "Offset": 0.5,
         "Max": 2,
         "Passive": {"Name": "Burn", "Description": "Enemies take 100% burn damage over 3 seconds"},
@@ -3639,28 +3639,28 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 200,
+                "Damage": 2000,
                 "Cooldown": 0.4,
                 "Slow": 0.4
             },
             {
                 "Price": 12500,
                 "Range": 24,
-                "Damage": 250,
+                "Damage": 2500,
                 "Cooldown": 0.4,
                 "Slow": 0.4
             },
             {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 300,
+                "Damage": 3000,
                 "Cooldown": 0.3,
                 "Slow": 0.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 400,
+                "Damage": 4000,
                 "Cooldown": 0.2,
                 "Slow": 0.4
             }
@@ -3801,7 +3801,7 @@
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
         "Rarity": "Secret",
-        "PlacePrice": 95000,
+        "PlacePrice": 12500,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Burn", "Description": "Burns enemies at 300% over 1 second. Applies 30% Wither to enemies in range while Charging up."},
@@ -4859,7 +4859,7 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Secret",
-        "PlacePrice": 25000,
+        "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Radioactive", "Description": "Slows enemies by 65% and applies 25% poison over 1 second"},
